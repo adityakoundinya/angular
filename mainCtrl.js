@@ -26,7 +26,7 @@
     };
 
     $scope.userName = "adityakoundinya";
-    $scope.countDown = 5;
+    $scope.countDown = 10;
     startCountDown();
   };
 
